@@ -1,2 +1,4 @@
 # Listary6-Extension-Dictionaries
-support en and de
+## HOW TO USE
+
+Put the extension you need to Listary6 install position. Default: C:\Program Files\Listary\Sources\Extensions\
