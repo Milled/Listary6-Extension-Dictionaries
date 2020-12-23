@@ -16,7 +16,7 @@ async function search(query) {
     }
     else {
         return [{
-            title: "urls"
+            title: "No Result"
         }];
     }
 }
